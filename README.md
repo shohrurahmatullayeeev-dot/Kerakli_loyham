@@ -1,1 +1,1 @@
-<h1>maning loyhalarim haqidas malumot</h1>
+<h1>maning loyhalarim haqida malumot olasiz</h1>
